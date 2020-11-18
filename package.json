@@ -12,12 +12,12 @@
     "express": "~4.11.x",
     "kerberos": "~0.0.x",
     "parse": "~1.8.0",
-    "parse-server": "~4.4.0"
+    "parse-server": "~4.x"
   },
   "scripts": {
     "start": "node index.js"
   },
   "engines": {
-    "node": "=6.11.1"
+    "node": "=8.x"
   }
 }
